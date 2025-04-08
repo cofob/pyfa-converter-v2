@@ -3,7 +3,7 @@
 This library provides a way to convert Pydantic models to FastAPI to use
 it in FastAPI endpoints and remove code duplication.
 
-You can learn more about it here: https://github.com/AezaGroup/pyfa-converter-v2
+You can learn more about it here: https://github.com/cofob/pyfa-converter-v2
 
 Example:
     >>> @app.post("/test")
